@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "name": "Sam",
+      "email": "sam@test",
+      "password": "sam123",
+      "id": 1
+    },
+    {
+      "email": "jonas@gmail.com",
+      "password": "1234",
+      "name": "Jonas",
+      "id": 2
+    },
+    {
+      "email": "jakob@gmail.com",
+      "password": "12345",
+      "name": "jakob",
+      "id": 3
+    },
+    {
+      "email": "oksana@gmail.com",
+      "password": "123456",
+      "name": "oksana",
+      "id": 4
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Burger king",
+      "address": "Hamburg Germany",
+      "contact": "111122",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "contact": 2222,
+      "address": "Stuttgart Germany"
+    },
+    {
+      "name": "Indian Restaurant",
+      "address": "Berlin",
+      "contact": "1234",
+      "id": 3
+    },
+    {
+      "name": "Sam's kitchen",
+      "address": "India",
+      "contact": "123456789",
+      "id": 4
+    }
+  ]
+}
